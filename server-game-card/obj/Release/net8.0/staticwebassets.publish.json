@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fzowSvBIyDRF1sJECX5l8ypWKjMfYE0Y4CsTB3Zu2Cw=",
+  "Source": "server-game-card",
+  "BasePath": "_content/server-game-card",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\server-game-card.props" />
+</Project>
